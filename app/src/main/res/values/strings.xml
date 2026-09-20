@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3D Model Viewer</string>
+    <string name="add_model">Add Model</string>
+    <string name="close">Close</string>
+    <string name="interaction_mode">Interaction Mode</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="toggle_labels">Toggle Labels</string>
+</resources>
